@@ -1,10 +1,14 @@
-## Hi everybody! 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&theme=gotham&repo=AlvaroDavi5)](https://github.com/AlvaroDavi5/AlvaroDavi5)
+## Hi everybody!  
 
-<div>
+<div align="center">
   <a href="https://github.com/AlvaroDavi5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=16&theme=radical"/>
+  <img alt="Repo Card" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AlvaroDavi5">
+  <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
 <div>
 
 <div style="display: inline_block"><br>
