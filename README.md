@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/AlvaroDavi5">
-  <img alt="Repo Card" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
+  <img alt="Repo Card" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
 </div>
 
 <div align="center">
@@ -37,4 +37,3 @@
  
   ![Snake animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/main/github-contribution-grid-snake.svg)
 </div>
-
