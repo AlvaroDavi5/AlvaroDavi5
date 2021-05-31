@@ -15,7 +15,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  <img align="right" alt="Tux_Coding" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
+  <img align="right" alt="Tux_Coding" height="" width="90px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 </div>
 
   ##
