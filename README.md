@@ -1,4 +1,5 @@
 ## Hi everybody! 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&theme=gotham&repo=AlvaroDavi5)](https://github.com/AlvaroDavi5/AlvaroDavi5)
 
 <div>
   <a href="https://github.com/AlvaroDavi5">
