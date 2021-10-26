@@ -75,8 +75,12 @@
   <a href="https://www.vim.org/">
   <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   </a>
+  <!-- Arch Linux, Vercel, Firebase, Heroku, Trello, Jira, ASDF, Opera -->
   <a href="https://code.visualstudio.com/">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  </a>
+  <a href="https://ohmyz.sh/">
+  <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg">
   </a>
   <a href="https://www.gnu.org/software/bash/">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
