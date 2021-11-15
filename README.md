@@ -82,6 +82,9 @@
   <a href="https://code.visualstudio.com/">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
+  <a href="https://github.com/tmux/tmux/wiki">
+  <img align="center" alt="Tmux" height="30" width="40" src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png">
+  </a>
   <a href="https://ohmyz.sh/">
   <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg">
   </a>
