@@ -88,6 +88,9 @@
   <a href="https://www.gnu.org/software/bash/">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   </a>
+  <a href="https://github.com/tmux/tmux/wiki">
+  <img align="center" alt="Tmux" height="30" width="30" src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png">
+  </a>
   <a href="https://www.kernel.org/">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   </a>
