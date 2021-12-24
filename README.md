@@ -86,7 +86,7 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </a>
   <a href="https://www.vim.org/">
-  <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
+  <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   </a>
   <!-- Arch Linux, Vercel, Firebase, Heroku, Trello, Jira, ASDF, Opera -->
   <a href="https://code.visualstudio.com/">
