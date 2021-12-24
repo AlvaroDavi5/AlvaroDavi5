@@ -12,13 +12,13 @@
 <div>
 
 <div style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://devdocs.io/c/">
@@ -45,6 +45,11 @@
   <a href="https://jupyter.org/">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
+  <!--
+  <a href="https://numpy.org/">
+  <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  </a>
+  -->
   <a href="https://nodejs.org/en/">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   </a>
@@ -75,9 +80,27 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </a>
   -->
+  <!--
+  <a href="https://vercel.com/">
+  <img align="center" alt="Vercel" height="30" width="40" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig">
+  </a>
+  -->
+  <!--
+  <a href="https://firebase.google.com/">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://www.heroku.com">
+  <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+  </a>
+  -->
 
   <a href="https://www.docker.com/">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  </a>
+  <a href="https://asdf-vm.com/">
+  <img align="center" alt="ASDF" height="30" width="40" src="https://static.thenounproject.com/png/39108-200.png">
   </a>
   <a href="https://git-scm.com/">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -85,13 +108,37 @@
   <a href="https://github.com/">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </a>
+  <!--
+  <a href="https://trello.com">
+  <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+  </a>
+  -->
   <a href="https://www.vim.org/">
   <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   </a>
-  <!-- Arch Linux, Vercel, Firebase, Heroku, Trello, Jira, ASDF, Opera -->
   <a href="https://code.visualstudio.com/">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
+  <!--
+  <a href="https://www.gimp.org/">
+  <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://inkscape.org/">
+  <img align="center" alt="Inkscape" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://www.blender.org/">
+  <img align="center" alt="Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Blenderlogo.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://unity.com/">
+  <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  </a>
+  -->
   <a href="https://ohmyz.sh/">
   <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg">
   </a>
@@ -107,6 +154,11 @@
   <a href="https://ubuntu.com/">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   </a>
+  <!--
+  <a href="https://archlinux.org">
+  <img align="center" alt="ArchLinux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png">
+  </a>
+  -->
 
   <img align="right" alt="Tux_Coding" height="" width="90px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 </div>
