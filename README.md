@@ -100,7 +100,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   </a>
   <a href="https://asdf-vm.com/">
-  <img align="center" alt="ASDF" height="30" width="40" src="https://static.thenounproject.com/png/39108-200.png">
+  <img align="center" alt="ASDF" height="30" width="30" src="https://static.thenounproject.com/png/39108-200.png">
   </a>
   <a href="https://git-scm.com/">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
