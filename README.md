@@ -1,12 +1,12 @@
 ## Hi everybody!  
 
 <div align="center">
-  <a href="https://github.com/AlvaroDavi5">
+  <a href="https://AlvaroDavi5.github.io">
   <img alt="Repo Card" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/AlvaroDavi5">
+  <a href="https://AlvaroDavi5.github.io">
   <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true"/>
   <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
 <div>
@@ -48,6 +48,11 @@
   <!--
   <a href="https://numpy.org/">
   <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://selenium-python.readthedocs.io/">
+  <img align="center" alt="Selenium" height="30" width="30" src="https://www.pikpng.com/pngl/m/508-5086518_download-support-effects-in-heterogeneous-selenium-with-java.png">
   </a>
   -->
   <a href="https://nodejs.org/en/">
@@ -167,7 +172,8 @@
 
 <div>
   <a href="mailto: alvaro.davisa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/álvaro-davi-santos-alves-785988184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/alvaro-davi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/1dcYonafspY1OKwCt9Tp6gtl5OlJuchMN/view?usp=sharing" target="_blank"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank"></a> 
+
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
 </div>
