@@ -10,7 +10,12 @@
   <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
   <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true"/>
   <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
-<div>
+</div>
+
+<div align="center">
+  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+  <img alt="Contribution Graph" height="180em" src="https://activity-graph.herokuapp.com/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/docs/Web/HTML">
@@ -46,16 +51,12 @@
   <a href="https://jupyter.org/">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
-  <!--
-  <a href="https://numpy.org/">
-    <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  </a>
-  -->
-  <!--
   <a href="https://selenium-python.readthedocs.io/">
     <img align="center" alt="Selenium" height="30" width="30" src="https://www.pikpng.com/pngl/m/508-5086518_download-support-effects-in-heterogeneous-selenium-with-java.png">
   </a>
-  -->
+  <a href="https://jestjs.io/">
+    <img align="center" alt="Jest" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+  </a>
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   </a>
@@ -96,11 +97,9 @@
     <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   </a>
   -->
-  <!--
   <a href="https://www.heroku.com">
     <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   </a>
-  -->
 
   <a href="https://www.docker.com/">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
@@ -172,10 +171,17 @@
   ##
 
 <div>
-  <a href="mailto: alvaro.davisa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alvaro-davi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://drive.google.com/file/d/1dcYonafspY1OKwCt9Tp6gtl5OlJuchMN/view?usp=sharing" target="_blank"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank"></a> 
+  <a href="mailto: alvaro.davisa@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/alvaro-davi/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://drive.google.com/file/d/1dcYonafspY1OKwCt9Tp6gtl5OlJuchMN/view?usp=sharing" target="_blank">
+    <img alt="Curriculum Vitae" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank">
+  </a>
 
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
