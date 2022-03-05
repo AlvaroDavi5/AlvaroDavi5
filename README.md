@@ -27,7 +27,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://devdocs.io/c/">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -54,10 +54,10 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://selenium-python.readthedocs.io/">
-    <img align="center" alt="Selenium" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+    <img align="center" alt="Selenium" height="26" width="26" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
   </a>
   <a href="https://jestjs.io/">
-    <img align="center" alt="Jest" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+    <img align="center" alt="Jest" height="28" width="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
   </a>
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -100,7 +100,7 @@
   </a>
   -->
   <a href="https://www.heroku.com">
-    <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+    <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   </a>
 
   <a href="https://www.docker.com/">
@@ -153,7 +153,7 @@
     <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   </a>
   <a href="https://github.com/tmux/tmux/wiki">
-    <img align="center" alt="Tmux" height="30" width="30" src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png">
+    <img align="center" alt="Tmux" height="27" width="27" src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png">
   </a>
   <a href="https://www.kernel.org/">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
