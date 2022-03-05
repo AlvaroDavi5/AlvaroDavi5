@@ -1,6 +1,8 @@
 ## Hi everybody!  
 
 <div align="center">
+
+<div align="center">
   <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
   <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
   <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
@@ -52,7 +54,7 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://selenium-python.readthedocs.io/">
-    <img align="center" alt="Selenium" height="30" width="30" src="https://www.pikpng.com/pngl/m/508-5086518_download-support-effects-in-heterogeneous-selenium-with-java.png">
+    <img align="center" alt="Selenium" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
   </a>
   <a href="https://jestjs.io/">
     <img align="center" alt="Jest" height="30" width="30" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
@@ -185,3 +187,5 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
+
+</div>
