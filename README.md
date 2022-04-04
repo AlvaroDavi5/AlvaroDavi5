@@ -29,6 +29,9 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
     <img align="center" alt="JavaScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </a>
   <a href="https://devdocs.io/c/">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </a>
@@ -113,6 +116,11 @@
   <a href="https://github.com/">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </a>
+  <!--
+  <a href="https://cloud.google.com/products">
+    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
+  -->
   <!--
   <a href="https://trello.com">
     <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
