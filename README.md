@@ -170,11 +170,9 @@
   <a href="https://archlinux.org">
     <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
   </a>
-
-  <img align="right" alt="Tux_Coding" height="" width="90px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 </div>
 
-  ##
+  ---
 
 <div>
   <a href="mailto: alvaro.davisa@gmail.com">
@@ -190,6 +188,10 @@
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
+<br>
+
+  ___
+  <img align="right" alt="Tux_Coding" height="" width="90px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 
 </div>
