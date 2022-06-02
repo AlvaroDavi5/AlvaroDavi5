@@ -100,7 +100,7 @@
     <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   </a>
   -->
-  <a href="https://www.heroku.com">
+  <a href="https://www.heroku.com/">
     <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
   </a>
 
@@ -116,16 +116,18 @@
   <a href="https://github.com/">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   </a>
-  <!--
   <a href="https://cloud.google.com/products">
     <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   </a>
-  -->
-  <!--
+  <a href="https://aws.amazon.com/">
+    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  </a>
+  <a href="https://www.atlassian.com/software/jira">
+    <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  </a>
   <a href="https://trello.com">
     <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   </a>
-  -->
   <a href="https://www.vim.org/">
     <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   </a>
@@ -188,10 +190,11 @@
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
-<br>
-
   ___
-  <img align="right" alt="Tux Coding" height="90px" width="90px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
+  <br>
+  <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 
 </div>
+
