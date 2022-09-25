@@ -71,7 +71,7 @@
   </a>
   </a>
   <a href="https://expressjs.com/">
-    <img align="center" alt="ExpressJS" height="30" width="40" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
+    <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   </a>
   <a href="https://socket.io">
     <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
