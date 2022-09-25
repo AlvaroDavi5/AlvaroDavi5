@@ -69,6 +69,13 @@
   <a href="https://nextjs.org/">
     <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </a>
+  </a>
+  <a href="https://expressjs.com/">
+    <img align="center" alt="ExpressJS" height="30" width="40" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
+  </a>
+  <a href="https://socket.io">
+    <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+  </a>
   <a href="https://sequelize.org/master/">
     <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
   </a>
