@@ -19,6 +19,11 @@
   <img alt="Contribution Graph" height="180em" src="https://activity-graph.herokuapp.com/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&count_private=true"/>
 </div>
 
+<div align="center">
+  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+  <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=discord"/>
+</div>
+
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/docs/Web/HTML">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
