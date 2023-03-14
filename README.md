@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-  <img alt="Contribution Graph" height="180em" src="https://activity-graph.herokuapp.com/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&count_private=true"/>
+  <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=true&count_private=true"/>
 </div>
 
 <div align="center">
