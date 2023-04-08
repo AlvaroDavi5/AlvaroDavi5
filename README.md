@@ -78,6 +78,9 @@
   <a href="https://expressjs.com/">
     <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   </a>
+  <a href="kafka.apache.org/">
+    <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  </a>
   <a href="https://socket.io">
     <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   </a>
