@@ -74,6 +74,9 @@
   <a href="https://nextjs.org/">
     <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </a>
+  <a href="https://docs.nestjs.com/">
+    <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  </a>
   </a>
   <a href="https://expressjs.com/">
     <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
@@ -100,11 +103,12 @@
   <a href="https://www.postgresql.org/">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </a>
-  <!--
   <a href="https://www.mongodb.com/">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </a>
-  -->
+  <a href="https://redis.io/">
+    <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  </a>
   <!--
   <a href="https://vercel.com/">
     <img align="center" alt="Vercel" height="30" width="40" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig">
