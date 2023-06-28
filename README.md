@@ -25,6 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+
   <a href="https://developer.mozilla.org/docs/Web/HTML">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
@@ -55,15 +56,13 @@
   <a href="https://www.python.org/">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+  <br>
 
   <a href="https://jupyter.org/">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://selenium-python.readthedocs.io/">
     <img align="center" alt="Selenium" height="26" width="26" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-  </a>
-  <a href="https://jestjs.io/">
-    <img align="center" alt="Jest" height="28" width="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
   </a>
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -81,14 +80,14 @@
   <a href="https://expressjs.com/">
     <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   </a>
-  <a href="https://kafka.apache.org/">
-    <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  </a>
   <a href="https://socket.io">
     <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
   </a>
   <a href="https://sequelize.org/master/">
     <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
+  </a>
+  <a href="https://jestjs.io/">
+    <img align="center" alt="Jest" height="28" width="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
   </a>
   <a href="https://www.npmjs.com/">
     <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
@@ -96,32 +95,41 @@
   <a href="https://yarnpkg.com/">
     <img align="center" alt="Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   </a>
+  <br>
 
-  <a href="https://www.mysql.com/">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </a>
   <a href="https://www.postgresql.org/">
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </a>
-  <a href="https://www.mongodb.com/">
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <a href="https://www.mysql.com/">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </a>
   <a href="https://redis.io/">
     <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   </a>
-  <!--
-  <a href="https://vercel.com/">
-    <img align="center" alt="Vercel" height="30" width="40" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig">
+  <a href="https://www.mongodb.com/">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </a>
-  -->
+  <a href="https://kafka.apache.org/">
+    <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  </a>
+  <a href="https://cloud.google.com/products">
+    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
+  <a href="https://www.heroku.com/">
+    <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+  </a>
+  <a href="https://vercel.com/">
+    <img align="center" alt="Vercel" height="30" width="30" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig">
+  </a>
   <!--
   <a href="https://firebase.google.com/">
     <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   </a>
   -->
-  <a href="https://www.heroku.com/">
-    <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
-  </a>
+  <br>
 
   <a href="https://www.docker.com/">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
@@ -134,12 +142,6 @@
   </a>
   <a href="https://github.com/">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </a>
-  <a href="https://cloud.google.com/products">
-    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   </a>
   <a href="https://www.atlassian.com/software/jira">
     <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
@@ -188,9 +190,12 @@
   <a href="https://ubuntu.com/">
     <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   </a>
+  <!--
   <a href="https://archlinux.org">
     <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
   </a>
+  -->
+  <br>
 </div>
 
   ---
