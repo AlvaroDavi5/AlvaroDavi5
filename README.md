@@ -74,11 +74,9 @@
   <a href="https://nextjs.org/">
     <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   </a>
-  <!--
   <a href="https://docs.nestjs.com/">
     <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   </a>
-  -->
   </a>
   <a href="https://expressjs.com/">
     <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
