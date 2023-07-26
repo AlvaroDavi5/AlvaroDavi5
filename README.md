@@ -56,14 +56,42 @@
   <a href="https://www.python.org/">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+  <a href="https://www.markdownguide.org/getting-started/">
+    <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+  </a>
   <br>
 
+  <a href="https://numpy.org/">
+    <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  </a>
   <a href="https://jupyter.org/">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://selenium-python.readthedocs.io/">
     <img align="center" alt="Selenium" height="26" width="26" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
   </a>
+  <a href="https://cmake.org/">
+    <img align="center" alt="CMake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
+  </a>
+  <!--
+  <a href="https://www.opengl.org/">
+    <img align="center" alt="OpenGL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg">
+  </a>
+  -->
+  <a href="https://spring.io/guides">
+    <img align="center" alt="SpringFramework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  </a>
+  <!--
+  <a href="https://deno.land/">
+    <img align="center" alt="DenoJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
+  </a>
+  -->
   <a href="https://nodejs.org/en/">
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   </a>
@@ -75,7 +103,6 @@
   </a>
   <a href="https://docs.nestjs.com/">
     <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  </a>
   </a>
   <a href="https://expressjs.com/">
     <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
@@ -131,29 +158,11 @@
   -->
   <br>
 
-  <a href="https://www.docker.com/">
-    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  </a>
-  <a href="https://asdf-vm.com/">
-    <img align="center" alt="ASDF" height="30" width="30" src="https://static.thenounproject.com/png/39108-200.png">
-  </a>
-  <a href="https://git-scm.com/">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  </a>
-  <a href="https://github.com/">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  </a>
-  <a href="https://www.atlassian.com/software/jira">
-    <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-  </a>
-  <a href="https://trello.com">
-    <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+  <a href="https://code.visualstudio.com/">
+    <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
   <a href="https://www.vim.org/">
     <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
   <!--
   <a href="https://www.gimp.org/">
@@ -167,7 +176,7 @@
   -->
   <!--
   <a href="https://www.blender.org/">
-    <img align="center" alt="Blender" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Blenderlogo.svg">
+    <img align="center" alt="Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg>
   </a>
   -->
   <!--
@@ -175,6 +184,21 @@
     <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   </a>
   -->
+  <a href="https://git-scm.com/">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </a>
+  <a href="https://github.com/">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </a>
+  <a href="https://www.docker.com/">
+    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  </a>
+  <a href="https://asdf-vm.com/">
+    <img align="center" alt="ASDF" height="30" width="30" src="https://static.thenounproject.com/png/39108-200.png">
+  </a>
+  <a href="https://www.openssh.com/manual.html">
+    <img align="center" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
+  </a>
   <a href="https://ohmyz.sh/">
     <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg">
   </a>
@@ -190,9 +214,17 @@
   <a href="https://ubuntu.com/">
     <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   </a>
-  <!--
   <a href="https://archlinux.org">
     <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
+  </a>
+  <!--
+  <a href="https://www.atlassian.com/software/jira">
+    <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  </a>
+  -->
+  <!--
+  <a href="https://trello.com">
+    <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
   </a>
   -->
   <br>
