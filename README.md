@@ -1,28 +1,30 @@
-## Hi everybody!  
+![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer+here!;Coding...)
+
+---
 
 <div align="center">
 
-<div align="center">
-  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-  <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
-  <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
-</div>
+  <div align="center">
+    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
+    <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
+  </div>
 
-<div align="center">
-  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-  <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
-</div>
+  <div align="center">
+    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+    <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
+  </div>
 
-<div align="center">
-  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-  <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
-</div>
+  <div align="center">
+    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+    <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
+  </div>
 
-<div align="center">
-  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-  <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=discord"/>
-</div>
+  <div align="center">
+    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=discord"/>
+  </div>
 
 <div style="display: inline_block"><br>
 
@@ -244,13 +246,12 @@
   </a>
 
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
-  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
 
 </div>
 
   ___
 
-  ![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer+here!;Coding...)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
   <br>
   <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 
