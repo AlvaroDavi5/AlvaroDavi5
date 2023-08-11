@@ -245,7 +245,7 @@
     <img alt="Curriculum Vitae" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank">
   </a>
 
-  ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
+  ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
