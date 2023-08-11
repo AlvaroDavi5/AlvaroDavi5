@@ -244,13 +244,13 @@
   </a>
 
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake.svg)
-  ![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer+here!;Coding...)
+  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
 
 </div>
 
   ___
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
+  ![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer+here!;Coding...)
   <br>
   <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 
