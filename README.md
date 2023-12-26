@@ -1,4 +1,4 @@
-![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Full+Stack+Developer+here!;Coding...)
+![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Back-End+Developer+here!;Coding...)
 
 ---
 
