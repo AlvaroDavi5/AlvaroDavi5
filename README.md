@@ -25,7 +25,7 @@
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=gotham&no-frame=false&no-bg=false&margin-w=2"/>
+    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=discord&no-frame=false&no-bg=false&margin-w=2&row=10&column=5"/>
   </div>
 
 <div style="display: inline_block"><br>
