@@ -16,14 +16,16 @@
     <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
   </div>
 
+  <!--
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
     <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
   </div>
+  -->
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=discord"/>
+    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=gotham&no-frame=false&no-bg=false&margin-w=2"/>
   </div>
 
 <div style="display: inline_block"><br>
