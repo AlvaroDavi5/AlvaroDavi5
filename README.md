@@ -219,7 +219,7 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   </a>
   <a href="https://ubuntu.com/">
-    <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Ubuntu" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg">
   </a>
   <a href="https://archlinux.org">
     <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
