@@ -16,8 +16,7 @@
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
-    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
+    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
     <!--
     <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham">
     -->
