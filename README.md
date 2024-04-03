@@ -6,8 +6,8 @@
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
-    <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5"/>
+    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+    <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
   </div>
 
   <div align="center">
@@ -16,12 +16,12 @@
     <!--
     <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
     -->
-    <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham"/>
+    <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
   </div>
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
+    <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
    <!--
    <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
    -->
@@ -29,7 +29,7 @@
 
   <div align="center">
     <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=onestar&no-frame=false&no-bg=false&margin-w=2&row=10&column=5"/>
+    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=onestar&no-frame=false&no-bg=false&margin-w=2&row=10&column=5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
   </div>
 
 <div style="display: inline_block"><br>
