@@ -250,9 +250,11 @@
   <a href="https://www.linkedin.com/in/alvaro-davi/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <!--
   <a href="https://drive.google.com/file/d/1dcYonafspY1OKwCt9Tp6gtl5OlJuchMN/view?usp=sharing" target="_blank">
     <img alt="Curriculum Vitae" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank">
   </a>
+  -->
 
   ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake-dark.svg)
 
