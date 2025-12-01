@@ -41,10 +41,10 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img align="center" alt="JavaScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
   <a href="https://devdocs.io/c/">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -53,13 +53,13 @@
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   </a>
   <a href="https://www.java.com/">
-    <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg">
   </a>
   <a href="https://www.arduino.cc/">
     <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   </a>
   <a href="https://www.r-project.org">
-    <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+    <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-plain.svg">
   </a>
   <a href="https://www.python.org/">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -82,7 +82,7 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   </a>
   <a href="https://selenium-python.readthedocs.io/">
-    <img align="center" alt="Selenium" height="26" width="26" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+    <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg">
   </a>
   <a href="https://cmake.org/">
     <img align="center" alt="CMake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
@@ -122,7 +122,7 @@
     <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
   </a>
   <a href="https://jestjs.io/">
-    <img align="center" alt="Jest" height="28" width="28" src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png">
+    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg">
   </a>
   <a href="https://www.npmjs.com/">
     <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
@@ -175,11 +175,9 @@
   <a href="https://www.vim.org/">
     <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   </a>
-  <!--
   <a href="https://www.gimp.org/">
     <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg">
   </a>
-  -->
   <!--
   <a href="https://inkscape.org/">
     <img align="center" alt="Inkscape" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg">
@@ -217,7 +215,7 @@
     <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   </a>
   <a href="https://github.com/tmux/tmux/wiki">
-    <img align="center" alt="Tmux" height="27" width="27" src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png">
+    <img align="center" alt="Tmux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-original.svg">
   </a>
   <a href="https://www.kernel.org/">
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
@@ -267,4 +265,3 @@
   <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
 
 </div>
-
