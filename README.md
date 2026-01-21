@@ -1,267 +1,272 @@
-![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Bem+vindos!+Welcome!;Back-End+Developer+here!;Coding...)
+<div id="presentation" align="center">
+  <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif" />
+  <br />
+
+![Presentation Animation](https://readme-typing-svg.herokuapp.com/?color=008C00&size=20&center=true&vCenter=true&width=1000&lines=Software+Developer;Coding...)
+
+</div>
 
 ---
 
-<div align="center">
+<div id="stats" align="center">
+  <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
+  <!-- Row 1 -->
+  <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <br />
+  <!-- Row 2 -->
+  <img alt="Stats Card" height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <!--
+  <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  -->
+  <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <br />
+  <!-- Row 3 -->
+  <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <br />
+  <!-- Row 4 -->
+  <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=onestar&no-frame=false&no-bg=false&margin-w=2&row=10&column=5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </a>
+</div>
 
-  <div align="center">
-    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Streak Card" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroDavi5&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-    <img alt="Repo Card" height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroDavi5&show_icons=true&show_owner=true&border_radius=10&theme=gotham&repo=AlvaroDavi5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  </div>
+---
 
-  <div align="center">
-    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Stats Card" height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-    <!--
-    <img alt="Stats Card" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroDavi5&show_icons=true&border_radius=8&theme=gotham&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-    -->
-    <img alt="Top_Langs Card" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDavi5&layout=compact&langs_count=20&border_radius=8&theme=gotham&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  </div>
-
-  <div align="center">
-    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-   <!--
-   <img alt="Contribution Graph" height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvaroDavi5&border_radius=8&theme=gotham&bg_color=0c1014&color=599cab&line=2aa889&point=09d659&area=true&hide_border=false&count_private=true"/>
-   -->
-  </div>
-
-  <div align="center">
-    <a href="https://AlvaroDavi5.github.io/pages/portfolio/">
-    <img alt="Archievements" height="auto" width="auto" src="https://github-profile-trophy.vercel.app/?username=AlvaroDavi5&theme=onestar&no-frame=false&no-bg=false&margin-w=2&row=10&column=5&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
-  </div>
-
-<div style="display: inline_block"><br>
-
+<div id="technologies" align="center" style="display: inline_block">
+  <!-- Languages -->
   <a href="https://developer.mozilla.org/docs/Web/HTML">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   </a>
   <a href="https://devdocs.io/c/">
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   </a>
   <a href="https://devdocs.io/cpp/">
-    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   </a>
   <a href="https://www.java.com/">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg" />
   </a>
   <a href="https://www.arduino.cc/">
-    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
   </a>
   <a href="https://www.r-project.org">
-    <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-plain.svg">
+    <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-plain.svg" />
   </a>
   <a href="https://www.python.org/">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   </a>
   <a href="https://www.markdownguide.org/getting-started/">
-    <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+    <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" />
   </a>
   <a href="https://www.latex-project.org/">
-    <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+    <img align="center" alt="LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" />
   </a>
-  <br>
-
+  <br />
+  <!-- Frameworks -->
   <a href="https://numpy.org/">
-    <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
   </a>
   <a href="https://pandas.pydata.org/">
-    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
   </a>
   <a href="https://jupyter.org/">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
   </a>
   <a href="https://selenium-python.readthedocs.io/">
-    <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg">
+    <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/selenium/selenium-original.svg" />
   </a>
   <a href="https://cmake.org/">
-    <img align="center" alt="CMake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
+    <img align="center" alt="CMake" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" />
   </a>
   <!--
   <a href="https://www.opengl.org/">
-    <img align="center" alt="OpenGL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg">
+    <img align="center" alt="OpenGL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-plain.svg" />
+  </a>
+  -->
+  <!--
+  <a href="https://www.vulkan.org/">
+    <img align="center" alt="Vulkan" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vulkan/vulkan-original.svg" />
   </a>
   -->
   <a href="https://spring.io/guides">
-    <img align="center" alt="SpringFramework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="SpringFramework" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   </a>
   <!--
   <a href="https://deno.land/">
-    <img align="center" alt="DenoJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
+    <img align="center" alt="DenoJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" />
   </a>
   -->
   <a href="https://nodejs.org/en/">
-    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   </a>
   <a href="https://reactjs.org/">
-    <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   </a>
   <a href="https://nextjs.org/">
-    <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   </a>
   <a href="https://docs.nestjs.com/">
-    <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+    <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
   </a>
   <a href="https://expressjs.com/">
-    <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="ExpressJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
   </a>
   <a href="https://socket.io">
-    <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+    <img align="center" alt="SocketIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" />
   </a>
   <a href="https://sequelize.org/master/">
-    <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg">
+    <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain.svg" />
   </a>
   <a href="https://jestjs.io/">
-    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg">
+    <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg" />
   </a>
   <a href="https://www.npmjs.com/">
-    <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
   </a>
   <a href="https://yarnpkg.com/">
-    <img align="center" alt="Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+    <img align="center" alt="Yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" />
   </a>
-  <br>
-
+  <br />
+  <!-- Infrastructure -->
   <a href="https://www.postgresql.org/">
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   </a>
   <a href="https://www.mysql.com/">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   </a>
   <a href="https://redis.io/">
-    <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+    <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   </a>
   <a href="https://kafka.apache.org/">
-    <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+    <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />
   </a>
   <a href="https://kubernetes.io/">
-    <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+    <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
   </a>
   <a href="https://aws.amazon.com/">
-    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </a>
   <a href="https://cloud.google.com/products">
-    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+    <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" />
   </a>
   <a href="https://www.heroku.com/">
-    <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+    <img align="center" alt="Heroku" height="27" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" />
   </a>
   <a href="https://vercel.com/">
-    <img align="center" alt="Vercel" height="30" width="30" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig">
+    <img align="center" alt="Vercel" height="30" width="30" src="https://pipedream.com/s.v0/app_1xohRm/logo/orig" />
   </a>
-  <!--
   <a href="https://firebase.google.com/">
-    <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+    <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
   </a>
-  -->
-  <br>
-
+  <br />
+  <!-- Tools -->
   <a href="https://code.visualstudio.com/">
-    <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   </a>
   <a href="https://www.vim.org/">
-    <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
+    <img align="center" alt="VIM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />
   </a>
   <a href="https://www.gimp.org/">
-    <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg">
+    <img align="center" alt="Gimp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-plain.svg" />
   </a>
   <!--
   <a href="https://inkscape.org/">
-    <img align="center" alt="Inkscape" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg">
+    <img align="center" alt="Inkscape" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-plain.svg" />
   </a>
   -->
   <!--
   <a href="https://www.blender.org/">
-    <img align="center" alt="Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg>
+    <img align="center" alt="Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg>" />
   </a>
   -->
   <!--
   <a href="https://unity.com/">
-    <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+    <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
   </a>
   -->
   <a href="https://git-scm.com/">
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   </a>
   <a href="https://github.com/">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   </a>
   <a href="https://www.docker.com/">
-    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
   </a>
   <a href="https://asdf-vm.com/">
-    <img align="center" alt="ASDF" height="30" width="30" src="https://static.thenounproject.com/png/39108-200.png">
+    <img align="center" alt="ASDF" height="30" width="30" src="https://static.thenounproject.com/png/39108-200.png" />
   </a>
   <a href="https://www.openssh.com/manual.html">
-    <img align="center" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg">
+    <img align="center" alt="SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" />
   </a>
   <a href="https://ohmyz.sh/">
-    <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg">
+    <img align="center" alt="Oh My ZSH" height="30" width="40" src="https://raw.githubusercontent.com/iquintero/bullet-train-oh-my-zsh-theme/master/img/icon.svg" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   </a>
   <a href="https://github.com/tmux/tmux/wiki">
-    <img align="center" alt="Tmux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-original.svg">
+    <img align="center" alt="Tmux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-original.svg" />
   </a>
   <a href="https://www.kernel.org/">
-    <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+    <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />
   </a>
   <a href="https://ubuntu.com/">
-    <img align="center" alt="Ubuntu" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg">
+    <img align="center" alt="Ubuntu" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />
   </a>
   <a href="https://archlinux.org">
-    <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
+    <img align="center" alt="ArchLinux" height="30" width="30" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" />
   </a>
   <!--
   <a href="https://www.atlassian.com/software/jira">
-    <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+    <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />
   </a>
   -->
   <!--
   <a href="https://trello.com">
-    <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+    <img align="center" alt="Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
   </a>
   -->
-  <br>
+  <br />
 </div>
 
-  ---
+---
 
-<div>
+<div id="contacts" align="center">
   <a href="mailto: alvaro.davisa@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/alvaro-davi/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    target="_blank" />
   </a>
+  <br />
   <!--
   <a href="https://drive.google.com/file/d/1dcYonafspY1OKwCt9Tp6gtl5OlJuchMN/view?usp=sharing" target="_blank">
-    <img alt="Curriculum Vitae" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png" target="_blank">
+    <img alt="Curriculum Vitae" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1672/1672211.png"
+    target="_blank" />
   </a>
   -->
+  <br />
 
-  ![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-  ___
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
-  <br>
-  <img align="center" alt="Tux Coding" height="100px" width="100px" src="https://1.bp.blogspot.com/--SpiFL8s8LI/XNHTUSpFQ0I/AAAAAAAAS80/E7VOY9KRLiAALhHw20izR7kBj-YMNYMIQCLcBGAs/s1600/tenor.gif">
+![Profile Views](https://komarev.com/ghpvc/?username=AlvaroDavi5&color=27967c&style=flat&label=Profile+Views)
 
 </div>
+
+---
+
+<!--
+![Snake Animation](https://github.com/AlvaroDavi5/AlvaroDavi5/blob/output/github-contribution-grid-snake-dark.svg)
+-->
