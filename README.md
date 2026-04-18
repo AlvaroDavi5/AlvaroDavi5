@@ -68,6 +68,14 @@
       <img align="center" alt="Java" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-plain.svg" />
     </a>
+    <a href="https://golang.org/">
+      <img align="center" alt="GoLang" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+    </a>
+    <a href="https://www.rust-lang.org/">
+      <img align="center" alt="Rust" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" />
+    </a>
     <a href="https://www.arduino.cc/">
       <img align="center" alt="Arduino" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
@@ -125,12 +133,6 @@
       <img align="center" alt="SpringFramework" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
     </a>
-    <!--
-    <a href="https://deno.land/">
-      <img align="center" alt="DenoJS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" />
-    </a>
-    -->
     <a href="https://nodejs.org/en/">
       <img align="center" alt="NodeJS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
